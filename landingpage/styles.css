@@ -1,0 +1,185 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h4{
+    color: black;
+    margin-top: 3.5%;
+    text-align: center;
+}
+
+button{
+    color: white;
+    width: 15%;
+    height: 10%;
+    background-color: #3882F6;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.header{
+    background-color:   #1F2937;
+    height: 570px;
+    color: white;
+}
+
+.navbar{
+    background-color: #1F2937;
+    display: flex;
+    color: white;
+}
+
+ .navbar ol {
+    list-style-type: none;
+    margin-left: 70%;
+    margin-top: 25px;
+    padding: 0;
+}
+
+.navb{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-left: 8px;
+    display: inline-block;
+}
+ 
+
+a:hover {
+    color: skyblue;
+}
+.logo{
+    margin-left: 5%;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+
+.info-header{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.flex-container{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    margin-left: 20px;
+}
+
+.hero{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.flex-container div{
+    padding: 20px;
+    margin: 25px;
+    width: 650px;
+    height: 250px;
+
+  
+}
+
+.one{
+    width: 500px;
+    text-align: left;
+}
+
+
+ .flex-box{ 
+     display: flex;
+
+} 
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-item{
+    width: 250px;
+    height: 250px; 
+    margin: 10px;
+    border: 3px solid ;
+    border-radius: 10px;
+    border-color: #3882F6;
+}
+
+.first{
+    margin-left: 225px;
+}
+
+.img-parag{
+    text-align: center;
+}
+
+.testimony{
+    text-align: left;
+    font-style: italic;
+    line-height: 2em;
+    margin-top: 190px;
+    width: 100%;
+    height: 300px;
+    background-color: #E5E7EB;
+
+}
+
+.test{
+    margin: 25px 50px 75px 400px;
+    padding-top: 5%;
+}
+
+.author{
+    font-weight: bold;
+    margin-left: 35%;
+    padding-bottom: 150px;
+   
+}
+
+
+.signup{
+  justify-content: center;
+  width: 100%;
+  height: 500px;
+}
+
+.signup-child{
+    width: 70%;
+    height: 25%;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 3px;
+    background-color: #3882F6;
+}
+
+.fixed-bottom{
+    height: 70px;
+    background-color: #1F2937;
+}
+
+.btn{ 
+     width: 9%;
+    height: 30px;
+    border: 2px solid white;
+    margin-left: 80%;
+   
+ }
+
+.action{
+    padding-top: 3%;
+    margin-left: 10%;
+    color: white;
+    font-weight: bold;
+} 
+.sign-up{
+    color: white;
+    font-weight: normal;
+}
+
+.copy-right{
+    color: white;
+    text-align: center;
+    padding-top: 22px;
+}
